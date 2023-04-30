@@ -1,0 +1,7 @@
+{
+	"health_url": "http://localhost:3005/health",
+    "api_url": "http://localhost:3005/health",
+    "api_key": "test-api-key",
+    "api_secret": "test-api-secret"
+
+}
